@@ -5,7 +5,7 @@ This Project is build using HTML,CSS and Javascript for frontend and Node.js and
 * landing page: This page is the home page.
 * Login page: This is the Login page.
 * Sign Up page: This is the register/signup page.
-* Index page: This is the page to show all the user Experiences in the database.
+* Index page: This is the page to show all the Restro Experiences in the database.
 * Show page: This page shows details of a particular Experience from here you can add comment, edit Experience and delete a particular Experience.
 
 **Authorization** is taken into account while giving rights to a user to edit or delete an Experience.Only the user who had made a particular Experience can delete or edit that Experience. 
